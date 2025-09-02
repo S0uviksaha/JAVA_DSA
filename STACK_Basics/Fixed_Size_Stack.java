@@ -2,7 +2,7 @@ package STACK_Basics;
 
 import java.util.Scanner;
 
-// Array implementation of Stack
+// Stack using Array
 
 public class Fixed_Size_Stack {
     int arr[];
