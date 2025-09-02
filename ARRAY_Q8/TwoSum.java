@@ -1,4 +1,4 @@
-package JAVA_DSA.ARRAY_Q8;
+package ARRAY_Q8;
 
 import java.util.Scanner;
 

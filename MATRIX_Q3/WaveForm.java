@@ -1,5 +1,5 @@
 // Print elements in Wave-form pattern
-package JAVA_DSA.MATRIX_Q3;
+package MATRIX_Q3;
 
 public class WaveForm {
     public static void main(String[] args) {

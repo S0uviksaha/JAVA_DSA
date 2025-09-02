@@ -1,5 +1,5 @@
 // Toggle elements of a String
-package JAVA_DSA.STRING_Q1;
+package STRING_Q1;
 
 public class Toggle {
     public static void main(String[] args) {

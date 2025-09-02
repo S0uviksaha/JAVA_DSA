@@ -1,5 +1,5 @@
 // Count total no of elements havaing at least 1 element greater than itself in the array
-package JAVA_DSA.ARRAY_Q7;
+package ARRAY_Q7;
 
 public class Count {
     public static void main(String[] args) {

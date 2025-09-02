@@ -1,4 +1,4 @@
-package JAVA_DSA.ARRAY_Q5;
+package ARRAY_Q5;
 
 public class PartialReverse {
     public static void main(String[] args) {

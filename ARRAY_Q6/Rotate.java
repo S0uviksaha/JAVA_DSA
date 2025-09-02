@@ -1,5 +1,5 @@
 // Rotate Array
-package JAVA_DSA.ARRAY_Q6;
+package ARRAY_Q6;
 import java.util.Scanner;
 
 public class Rotate {

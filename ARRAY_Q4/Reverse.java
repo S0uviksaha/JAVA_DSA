@@ -1,5 +1,5 @@
 // Reverse Array
-package JAVA_DSA.ARRAY_Q4;
+package ARRAY_Q4;
 
 public class Reverse {
     public static void main(String[] args) {

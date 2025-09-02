@@ -1,5 +1,5 @@
 // Print the first non repeating element in Array
-package JAVA_DSA.HASHMAP_Q2;
+package HASHMAP_Q2;
 
 import java.util.HashMap;
 public class NonRepeating {

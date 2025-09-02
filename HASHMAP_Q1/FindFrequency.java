@@ -1,4 +1,4 @@
-package JAVA_DSA.HASHMAP_Q1;
+package HASHMAP_Q1;
 
 import java.util.HashMap;
 

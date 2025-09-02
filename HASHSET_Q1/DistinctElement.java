@@ -1,5 +1,5 @@
 // count no od distinct element in Array
-package JAVA_DSA.HASHSET_Q1;
+package HASHSET_Q1;
 
 import java.util.HashSet;
 

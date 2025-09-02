@@ -1,5 +1,5 @@
 // check if there exist any pair(i,j) for which arr[i] + arr[j] == k and i!= j
-package JAVA_DSA.HASHMAP_Q3;
+package HASHMAP_Q3;
 
 import java.util.HashMap;
 

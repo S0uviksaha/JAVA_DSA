@@ -1,5 +1,5 @@
 // Sum of Array Elements
-package JAVA_DSA.ARRAY_Q1;
+package ARRAY_Q1;
 
 import java.util.Scanner;
 public class Sum {

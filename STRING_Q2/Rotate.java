@@ -1,5 +1,5 @@
 // Reverse a string
-package JAVA_DSA.STRING_Q2;
+package STRING_Q2;
 
 public class Rotate {
     public static void main(String[] args) {

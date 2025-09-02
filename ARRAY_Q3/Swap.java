@@ -1,5 +1,5 @@
 // Swapping elements of Array
-package JAVA_DSA.ARRAY_Q3;
+package ARRAY_Q3;
 
 public class Swap {
     public static void main(String[] args) {

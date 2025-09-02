@@ -1,5 +1,5 @@
 // Maximum element in Array
-package JAVA_DSA.ARRAY_Q2;
+package ARRAY_Q2;
 
 public class Max {
     public static void main(String[] args) {

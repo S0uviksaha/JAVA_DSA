@@ -1,5 +1,5 @@
 // Print elements Column-wise
-package JAVA_DSA.MATRIX_Q2;
+package MATRIX_Q2;
 
 import java.util.Scanner;
 public class PrintMatrix {
